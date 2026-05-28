@@ -1,151 +1,131 @@
 {
   "business": {
-    "name": "Atelier Garment Exporters",
-    "phone": "+91 44 2815 9000",
-    "email": "inquiries@ateliergarments.com",
-    "address": "Atelier Towers, Sector 4, KASEZ, Chennai, Tamil Nadu 600096, India",
-    "yearEstablished": "1994",
-    "capacity": "2.4 Million Garments Annually"
+    "name": "Shaswat Textiles Pvt Ltd",
+    "full_address": "181, New Cloth Market, Opp. Raipur Gate, New Cloth Market, Sarangpur, Sherkotda, Ahmedabad, Gujarat 380002, India",
+    "phone": "+91 98795 59356",
+    "local_phone": "098795 59356",
+    "website": "http://shaswattextiles.com/",
+    "rating": 4.3,
+    "total_reviews": 10,
+    "business_status": "OPERATIONAL",
+    "google_maps_url": "https://maps.google.com/?cid=12864264399782596329",
+    "lat": 23.0184282,
+    "lng": 72.5992748,
+    "open_now": true,
+    "weekday_hours": [
+      "Monday: 10:00 AM – 7:30 PM",
+      "Tuesday: 10:00 AM – 7:30 PM",
+      "Wednesday: 10:00 AM – 7:30 PM",
+      "Thursday: 10:00 AM – 7:30 PM",
+      "Friday: 10:00 AM – 7:30 PM",
+      "Saturday: 10:00 AM – 7:30 PM",
+      "Sunday: Closed"
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reviews": [
+      {
+        "author_name": "SURESH GURJAR",
+        "rating": 5,
+        "review": "Manufacturer of Shirting, Suiting, Dress Material in best quality amd concept of brands....",
+        "time_ago": "3 years ago"
+      },
+      {
+        "author_name": "Niketu Dinesh",
+        "rating": 5,
+        "review": "Men & Women's wear, the quality people👕👖👚🎽👗",
+        "time_ago": "4 years ago"
+      },
+      {
+        "author_name": "Krupex Pots & Planters",
+        "rating": 5,
+        "review": "Nice products",
+        "time_ago": "2 years ago"
+      }
+    ],
+    "photos": [
+      {
+        "width": 4288,
+        "height": 2848,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-siO4qjTPgu1s5b6J3UiCxpcDEd6ReEJpvNrGHgBMf7JRokIdpGougR254sbqj4bs7IQkJ6JQwdlD8Wyeex4-YpFuutwqql5e1rUPo-10y3XZtdopZgg2CfUSofz2WEuFI3x4OD-lPTFtOUYJfepH7ypFFliOlFCzRpC2VxNvZcCOz4lzA_UeGSS0XDX5FHmnG53G5LeKv3HCQyOWEJsGbf2wYeIMNvZn-srdXokKBi1j_85Y_eB1HLx2b4JpcyVCYlCy_OXNZPjqxDLiojABteq8SWOaAl_g11_RQoiZ56g9cwtolgdCF0vDZjiNDlsvDn2g9chdV7ucpTYdL2q19SkgppmA74fT34JIzqx8esuPTtdDARIw959EF3K4GIyQL40z_BS-eefwk16HZ5cd7WhCNh6lWfg8GuKa3k50Y1WQ&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 4288,
+        "height": 2848,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uy2Ym0pdo2ByImQdgjxmgqNFSwJHAZ9w2PNCI9WZxSMaVoP6FEZJ22AajMc9igLNXqbmJNjGrHa7prVdlEypmJCJXKBGVn94O1X7I2RQmlBmoYsDEiplKf4kzm9_r19GY3cVRmBYkEXcPXXiTNpeT_Ig-YQKmNFJF9ok3AZVL7aNru8M5Tmk1gUD3lBpRb1A3vFgsHbTnvX7jDZZtOSnMPteNIm_D7U4uCWC-mCPzcETV-HdGHNH1HqTzScBmIE8NjbsX0hTnjGmtQTwNMofkFsyaYKBXBUU7fgxiXNF1xDPP48uvtrF_N8icd23OZTdoylYuZE6D472p0Nuzfr9R7LysTHtka3elnFHvCOOXYOTyM7ZMFvOUH1Pan2nTqeLbg8_oSF748Vvj21CJv27Xu7lS50zDqRKm8hLaBbj1i7A&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      }
+    ],
+    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-siO4qjTPgu1s5b6J3UiCxpcDEd6ReEJpvNrGHgBMf7JRokIdpGougR254sbqj4bs7IQkJ6JQwdlD8Wyeex4-YpFuutwqql5e1rUPo-10y3XZtdopZgg2CfUSofz2WEuFI3x4OD-lPTFtOUYJfepH7ypFFliOlFCzRpC2VxNvZcCOz4lzA_UeGSS0XDX5FHmnG53G5LeKv3HCQyOWEJsGbf2wYeIMNvZn-srdXokKBi1j_85Y_eB1HLx2b4JpcyVCYlCy_OXNZPjqxDLiojABteq8SWOaAl_g11_RQoiZ56g9cwtolgdCF0vDZjiNDlsvDn2g9chdV7ucpTYdL2q19SkgppmA74fT34JIzqx8esuPTtdDARIw959EF3K4GIyQL40z_BS-eefwk16HZ5cd7WhCNh6lWfg8GuKa3k50Y1WQ&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
   },
   "website_config": {
-    "theme": "dark-editorial",
-    "navbarVariant": "glassmorphism",
+    "theme": "luxury-fashion",
+    "navbarVariant": "transparent-floating",
     "footerVariant": "editorial-footer",
     "branding": {
-      "style": "Avant-Garde Studio",
-      "tone": "mysterious-luxurious"
+      "style": "Elegant",
+      "tone": "Sophisticated"
     },
     "layout": {
       "sections": [
-        { "type": "Hero", "variant": "fullscreen-fashion" },
-        { "type": "About", "variant": "editorial-story" },
-        { "type": "Stats", "variant": "split-metrics" },
-        { "type": "Process", "variant": "image-process" },
-        { "type": "Reviews", "variant": "stacked-cards" },
-        { "type": "Contact", "variant": "dark-contact" }
+        {
+          "type": "Hero",
+          "variant": "luxury-parallax"
+        },
+        {
+          "type": "About",
+          "variant": "luxury-narrative"
+        },
+        {
+          "type": "Gallery",
+          "variant": "carousel"
+        },
+        {
+          "type": "Reviews",
+          "variant": "editorial-quotes"
+        },
+        {
+          "type": "CTA",
+          "variant": "dark-luxury"
+        },
+        {
+          "type": "Contact",
+          "variant": "dark-contact"
+        }
       ]
     }
   },
   "website_content": {
     "hero": {
-      "tagline": "Architecting High-End Apparel for the World's Leading Fashion Houses",
-      "description": "Atelier Garment Exporters is a premier, luxury apparel and high-performance streetwear manufacturer. Running out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, working with elite global brands to bring conscious, couture-grade garment production to life at scale."
+      "title": "Crafted Elegance. Woven Perfection.",
+      "subtitle": "Experience the pinnacle of premium textiles and timeless garment design.",
+      "primaryButton": "Discover Collections",
+      "secondaryButton": "Explore Fabrics"
     },
     "about": {
-      "title": "Crafting conscious garment solutions for the contemporary epoch.",
-      "description": "Atelier Garment Exporters works with elite global brands to bring conscious, couture-grade garment production to life at scale. Operating out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, zero liquid discharge dyeing, and 3D precision draping."
+      "title": "The Art of Fine Textiles",
+      "description": "Shaswat Textiles is synonymous with excellence. We meticulously craft premium shirting, suiting, and dress materials, setting the standard for quality and sophisticated design in men's and women's wear."
     },
-    "stats": [
-      { "value": "30+", "label": "Global Brands Supported" },
-      { "value": "2.4M", "label": "Annual Garments Shipped" },
-      { "value": "98%", "label": "Water Recycled in Dyeing" },
-      { "value": "100%", "label": "Ethical Labor Compliance" }
-    ],
-    "fabrics": [
-      {
-        "name": "Ultra-Heavyweight Loopback Terry",
-        "weight": "480 GSM",
-        "composition": "100% Organic Long-Staple Cotton",
-        "description": "Designed for premier luxury streetwear. Highly robust structure, immense softness, and a clean structured drape.",
-        "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Tailored Silk-Wool Blends",
-        "weight": "240 GSM",
-        "composition": "70% Virgin Wool / 30% Mulberry Silk",
-        "description": "Engineered for high-end luxury draping and soft structure. Breathable warmth with a natural subtle sheen.",
-        "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Technical Recycled Ripstop Nylon",
-        "weight": "110 GSM",
-        "composition": "100% GRS Recycled Post-Consumer Nylon",
-        "description": "Ultra-lightweight micro-ripstop with sustainable water-repellent coating. Engineered for performance outerwear.",
-        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=1600&auto=format&fit=crop"
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Ethical Sourcing & Fiber Selection",
-        "description": "We secure superior long-staple organic cottons, sustainable wood-derived Tencel, and certified recycled technical fibers."
-      },
-      {
-        "step": "02",
-        "title": "Architectural Drafting & Pattern Modeling",
-        "description": "Collaborating closely with brand design teams, our engineers utilize advanced 3D pattern scanning for ultra-precise draping."
-      },
-      {
-        "step": "03",
-        "title": "Conscious Wet Processing",
-        "description": "Using high-efficiency low-liquor ratio dyeing machinery that recycles 98% of process water through zero liquid discharge systems."
-      },
-      {
-        "step": "04",
-        "title": "Craftsmanship-First Assembly",
-        "description": "Each line of stitching is managed by specialized artisans with decades of experience in working with high-end tailored garments."
-      }
-    ],
-    "gallery": [
-      {
-        "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1600&auto=format&fit=crop",
-        "title": "Precision tailoring assembly line",
-        "category": "Facility"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=1600&auto=format&fit=crop",
-        "title": "Premium fashion collection inspection",
-        "category": "Showcase"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1600&auto=format&fit=crop",
-        "title": "Conscious textile washing",
-        "category": "Processing"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?q=80&w=1600&auto=format&fit=crop",
-        "title": "Artisanal quality stitching control",
-        "category": "Craftsmanship"
-      }
-    ],
-    "reviews": [
-      {
-        "quote": "Atelier Exporters changed how we look at technical outerwear production. Their precision pattern engineering matched our strict luxury blueprints perfectly, and their ethical traceability metrics are unparalleled in the global supply chain.",
-        "author": "Marcus Sterling",
-        "role": "Director of Sourcing, Sterling Outerwear (London)"
-      },
-      {
-        "quote": "In high-concept modern streetwear, fabric handfeel and weight are everything. Atelier's custom loopback terry is the finest on the market, period. Their execution of zero-liquid discharge dyeing is a blueprint for the future of apparel.",
-        "author": "Elena Rossi",
-        "role": "Head of Production, NVRMIND Collective (Milan)"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What are your Minimum Order Quantities (MOQs)?",
-        "answer": "To maintain our rigorous craftsmanship controls, our standard MOQs are 1,000 units per style / 500 units per colorway. Custom fabric developments may require higher initial volumes depending on fiber sourcing requirements."
-      },
-      {
-        "question": "How do you trace your raw organic fibers?",
-        "answer": "Every shipment of raw material is fully documented with direct transaction certificates under Global Organic Textile Standard (GOTS) and OCS certification. We provide complete transparent supply-chain documentation directly to brand partners."
-      },
-      {
-        "question": "What are your standard shipping lead times?",
-        "answer": "Our normal production timeline spans 8 to 12 weeks from tech-pack signoff and fabric approval. We utilize highly direct ocean cargo corridors via Chennai Port and fast air-freight pathways to major EU/US logistics hubs."
-      }
-    ],
+    "gallery": {
+      "title": "Inspiring Visions. Unveiling Collections.",
+      "description": "Step into a world where texture meets artistry. Our gallery showcases the intricate beauty and modern appeal of our latest textile innovations and garment creations."
+    },
+    "reviews": {
+      "title": "Voices of Distinction",
+      "description": "Our commitment to unparalleled quality and sophisticated design is echoed by those who experience the Shaswat difference."
+    },
     "cta": {
-      "title": "Secure Your Brand's Next Autumn/Winter Production Run",
-      "subtitle": "Production Allocation",
-      "description": "We are now accepting custom fabric developments and production contracts for the upcoming collection cycle."
+      "title": "Redefine Your Wardrobe",
+      "description": "Elevate your style with textiles crafted for discerning tastes. Explore our exclusive ranges today.",
+      "buttonText": "Shop New Arrivals"
+    },
+    "contact": {
+      "title": "Connect With Craftsmanship",
+      "description": "We invite you to reach out for inquiries, partnerships, or to discover our premium textile solutions.",
+      "buttonText": "Get In Touch"
     }
-  },
-  "seo": {
-    "title": "Atelier Garment Exporters | High-End Sustainable Apparel Manufacture",
-    "description": "Global, luxury garment and premium streetwear exporters. Operating dynamic carbon-neutral mills specializing in high-concept fashion, ethical organic fibers, and zero liquid discharge production."
-  },
-  "socials": {
-    "instagram": "https://instagram.com/ateliergarments",
-    "linkedin": "https://linkedin.com/company/atelier-garment-exporters"
   }
 }
