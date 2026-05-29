@@ -51,15 +51,15 @@
       {
         "width": 4288,
         "height": 2848,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-siO4qjTPgu1s5b6J3UiCxpcDEd6ReEJpvNrGHgBMf7JRokIdpGougR254sbqj4bs7IQkJ6JQwdlD8Wyeex4-YpFuutwqql5e1rUPo-10y3XZtdopZgg2CfUSofz2WEuFI3x4OD-lPTFtOUYJfepH7ypFFliOlFCzRpC2VxNvZcCOz4lzA_UeGSS0XDX5FHmnG53G5LeKv3HCQyOWEJsGbf2wYeIMNvZn-srdXokKBi1j_85Y_eB1HLx2b4JpcyVCYlCy_OXNZPjqxDLiojABteq8SWOaAl_g11_RQoiZ56g9cwtolgdCF0vDZjiNDlsvDn2g9chdV7ucpTYdL2q19SkgppmA74fT34JIzqx8esuPTtdDARIw959EF3K4GIyQL40z_BS-eefwk16HZ5cd7WhCNh6lWfg8GuKa3k50Y1WQ&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/shaswat1.jpg"
       },
       {
         "width": 4288,
         "height": 2848,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uy2Ym0pdo2ByImQdgjxmgqNFSwJHAZ9w2PNCI9WZxSMaVoP6FEZJ22AajMc9igLNXqbmJNjGrHa7prVdlEypmJCJXKBGVn94O1X7I2RQmlBmoYsDEiplKf4kzm9_r19GY3cVRmBYkEXcPXXiTNpeT_Ig-YQKmNFJF9ok3AZVL7aNru8M5Tmk1gUD3lBpRb1A3vFgsHbTnvX7jDZZtOSnMPteNIm_D7U4uCWC-mCPzcETV-HdGHNH1HqTzScBmIE8NjbsX0hTnjGmtQTwNMofkFsyaYKBXBUU7fgxiXNF1xDPP48uvtrF_N8icd23OZTdoylYuZE6D472p0Nuzfr9R7LysTHtka3elnFHvCOOXYOTyM7ZMFvOUH1Pan2nTqeLbg8_oSF748Vvj21CJv27Xu7lS50zDqRKm8hLaBbj1i7A&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/shaswat2.jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-siO4qjTPgu1s5b6J3UiCxpcDEd6ReEJpvNrGHgBMf7JRokIdpGougR254sbqj4bs7IQkJ6JQwdlD8Wyeex4-YpFuutwqql5e1rUPo-10y3XZtdopZgg2CfUSofz2WEuFI3x4OD-lPTFtOUYJfepH7ypFFliOlFCzRpC2VxNvZcCOz4lzA_UeGSS0XDX5FHmnG53G5LeKv3HCQyOWEJsGbf2wYeIMNvZn-srdXokKBi1j_85Y_eB1HLx2b4JpcyVCYlCy_OXNZPjqxDLiojABteq8SWOaAl_g11_RQoiZ56g9cwtolgdCF0vDZjiNDlsvDn2g9chdV7ucpTYdL2q19SkgppmA74fT34JIzqx8esuPTtdDARIw959EF3K4GIyQL40z_BS-eefwk16HZ5cd7WhCNh6lWfg8GuKa3k50Y1WQ&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/shaswat1.jpg"
   },
   "website_config": {
     "theme": "luxury-fashion",
